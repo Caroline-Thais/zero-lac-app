@@ -1,6 +1,6 @@
 <div align="center">
   
-    Zero lac APP - Aplicativo para intolerantes à lactose
+    Lac zero APP - Aplicativo para intolerantes à lactose
   
 </div>
 
